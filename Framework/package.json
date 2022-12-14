@@ -1,0 +1,15 @@
+{
+  "name": "coder-js",
+  "version": "1.0.0",
+  "description": "Ajax fetch clase 16",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[200~https://github.com/konstantinowivo/Apuntes-coder-JS.git~"
+  },
+  "author": "ivo Konstantinow",
+  "license": "ISC"
+}

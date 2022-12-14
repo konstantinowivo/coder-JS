@@ -1,0 +1,1 @@
+// Clase contiene explicación de debugear (?)
